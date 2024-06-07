@@ -5,6 +5,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 # Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pri2025/gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 # Hash Table
 |  |
@@ -14,3 +15,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
+# Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pri2025/gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
