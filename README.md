@@ -6,6 +6,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pri2025/gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/pri2025/gfg/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/pri2025/gfg/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/pri2025/gfg/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -25,3 +26,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pri2025/gfg/tree/master/0136-single-number) |
+# Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/pri2025/gfg/tree/master/0066-plus-one) |
