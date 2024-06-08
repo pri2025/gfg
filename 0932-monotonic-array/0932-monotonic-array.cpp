@@ -15,9 +15,6 @@ public:
         if(flag1 == 1 && flag2 == 1){
             return false;
         }
-        else{
-            return true;
-        }
-        return -1;
+        return true;
     }
 };
