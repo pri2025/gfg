@@ -10,6 +10,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0136-single-number](https://github.com/pri2025/gfg/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0932-monotonic-array](https://github.com/pri2025/gfg/tree/master/0932-monotonic-array) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/pri2025/gfg/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/pri2025/gfg/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pri2025/gfg/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 # Hash Table
@@ -20,6 +21,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/pri2025/gfg/tree/master/1693-sum-of-all-odd-length-subarrays) |
 # Two Pointers
 |  |
 | ------- |
@@ -32,4 +34,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/pri2025/gfg/tree/master/0066-plus-one) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/pri2025/gfg/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pri2025/gfg/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
