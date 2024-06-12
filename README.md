@@ -6,6 +6,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pri2025/gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pri2025/gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pri2025/gfg/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pri2025/gfg/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/pri2025/gfg/tree/master/0136-single-number) |
@@ -41,5 +42,6 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 # Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pri2025/gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pri2025/gfg/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/pri2025/gfg/tree/master/0792-binary-search) |
