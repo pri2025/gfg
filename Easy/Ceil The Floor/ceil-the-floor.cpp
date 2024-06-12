@@ -25,26 +25,44 @@ int main() {
 // } Driver Code Ends
 
 
-pair<int, int> getFloorAndCeil(int arr[], int n, int x) {
+pair<int, int> getFloorAndCeil(int v[], int n, int x) {
     // code here
     
-    int mini = INT_MIN;
-    int maxi = INT_MAX;
-    for(int i=0; i<n; i++){
-        if(arr[i] <= x && arr[i]>mini){
-            mini = arr[i];
+    int mini = -1;
+    int maxi = -1;
+    sort(v, v+n);
+    int i = 0;
+    int j = n-1;
+    while( i<=j){
+        int mid = (i+j)/2;
+        if(v[mid] == x){
+            return{v[mid], v[mid]};
         }
-        if(arr[i] >= x && arr[i]<maxi){
-            maxi = arr[i];
+        else if(v[mid] < x){
+            mini = v[mid];
+            i = mid+1;
+        }
+        else{
+            maxi = v[mid];
+            j= mid -1;
         }
     }
-    if(mini == INT_MIN){
-        mini = -1;
-    }
-    if(maxi == INT_MAX){
-        maxi = -1;
-    }
-    // pair.push_back(mini);
-    // pair.push_back(maxi);
-    return {mini, maxi};
+    return{mini,maxi};
+    
 }
+
+//for(int i=0; i<n; i++){
+    //     if(arr[i] <= x && arr[i]>mini){
+    //         mini = arr[i];
+    //     }
+    //     if(arr[i] >= x && arr[i]<maxi){
+    //         maxi = arr[i];
+    //     }
+    // }
+    // if(mini == INT_MIN){
+    //     mini = -1;
+    // }
+    // if(maxi == INT_MAX){
+    //     maxi = -1;
+    // }
+    // return {mini, maxi};
