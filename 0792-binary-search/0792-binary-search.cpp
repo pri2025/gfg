@@ -24,7 +24,7 @@ public:
         int i = 0;
         int j = nums.size()-1;
         while( i <= j){
-            int mid = i+(j-i)/2;
+            int mid = (j+i)/2;
             if(nums[mid] == target){
                 return mid;
             }
