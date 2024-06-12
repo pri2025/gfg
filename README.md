@@ -10,6 +10,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pri2025/gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pri2025/gfg/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pri2025/gfg/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/pri2025/gfg/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/pri2025/gfg/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/pri2025/gfg/tree/master/0792-binary-search) |
@@ -46,4 +47,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0033-search-in-rotated-sorted-array](https://github.com/pri2025/gfg/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pri2025/gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pri2025/gfg/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/pri2025/gfg/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0792-binary-search](https://github.com/pri2025/gfg/tree/master/0792-binary-search) |
