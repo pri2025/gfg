@@ -16,7 +16,7 @@ public:
                     i = mid+1;
                 }
             }
-            else{//right sored
+            else{//right sorted
                 if(nums[mid] <= target && target <= nums[j]){
                     i = mid+1;
                 }
