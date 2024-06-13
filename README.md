@@ -13,6 +13,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pri2025/gfg/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/pri2025/gfg/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pri2025/gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pri2025/gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/pri2025/gfg/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/pri2025/gfg/tree/master/0932-monotonic-array) |
@@ -50,4 +51,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0035-search-insert-position](https://github.com/pri2025/gfg/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pri2025/gfg/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pri2025/gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pri2025/gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/pri2025/gfg/tree/master/0792-binary-search) |
