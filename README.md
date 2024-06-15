@@ -26,6 +26,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 # Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pri2025/gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 # Prefix Sum
 |  |
@@ -73,3 +74,11 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pri2025/gfg/tree/master/0050-powx-n) |
+# String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pri2025/gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+# Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pri2025/gfg/tree/master/0003-longest-substring-without-repeating-characters) |
