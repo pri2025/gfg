@@ -20,6 +20,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/pri2025/gfg/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/pri2025/gfg/tree/master/0932-monotonic-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/pri2025/gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pri2025/gfg/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/pri2025/gfg/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pri2025/gfg/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -32,6 +33,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/pri2025/gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pri2025/gfg/tree/master/1693-sum-of-all-odd-length-subarrays) |
 # Two Pointers
 |  |
@@ -61,6 +63,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0240-search-a-2d-matrix-ii](https://github.com/pri2025/gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pri2025/gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/pri2025/gfg/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/pri2025/gfg/tree/master/1046-max-consecutive-ones-iii) |
 # Matrix
 |  |
 | ------- |
@@ -82,3 +85,4 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pri2025/gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/pri2025/gfg/tree/master/1046-max-consecutive-ones-iii) |
