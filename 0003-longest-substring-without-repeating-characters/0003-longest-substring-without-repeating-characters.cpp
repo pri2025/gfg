@@ -16,7 +16,7 @@ public:
         return len;
     }
 };
-
+//worst case o(2*n) vaise o(n);
 
 //string ans = ""; 
         // string temp = "";
