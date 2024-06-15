@@ -43,6 +43,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 # Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pri2025/gfg/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pri2025/gfg/tree/master/0066-plus-one) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pri2025/gfg/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pri2025/gfg/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -68,3 +69,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/pri2025/gfg/tree/master/0240-search-a-2d-matrix-ii) |
+# Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/pri2025/gfg/tree/master/0050-powx-n) |
