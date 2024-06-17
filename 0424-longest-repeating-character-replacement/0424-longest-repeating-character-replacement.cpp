@@ -8,7 +8,7 @@ public:
             mp[s[j] - 'A']++;
             maxf = max(maxf,mp[s[j] - 'A']);
             
-            while((j-i+1) - maxf > k){
+            if((j-i+1) - maxf > k){
                 mp[s[i] - 'A']--; 
                 // maxf = 0;
                 // for(int k = 0; k<26 ; k++){
