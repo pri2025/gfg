@@ -28,6 +28,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pri2025/gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/pri2025/gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 # Prefix Sum
 |  |
@@ -81,8 +82,10 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pri2025/gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/pri2025/gfg/tree/master/0424-longest-repeating-character-replacement) |
 # Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pri2025/gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/pri2025/gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/pri2025/gfg/tree/master/1046-max-consecutive-ones-iii) |
