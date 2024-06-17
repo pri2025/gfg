@@ -17,9 +17,7 @@ public:
                 i++;
             }
 
-            if((j-i+1) - maxf <= k){
-                len = max(len, (j-i+1));
-            }
+            len = max(len, (j-i+1));
             j++; 
         }
         return len;
