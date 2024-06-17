@@ -10,10 +10,12 @@ public:
             
             while((j-i+1) - maxf > k){
                 mp[s[i] - 'A']--; 
-                maxf = 0;
-                for(int k = 0; k<26 ; k++){
-                    maxf = max(maxf, mp[k]);
-                }
+                // maxf = 0;
+                // for(int k = 0; k<26 ; k++){
+                //     maxf = max(maxf, mp[k]);
+                // } no need to update maxf, it will only decrease maxf
+                //ans will not contribute in maxlen. is point tk already
+                //maxlen hai,ab better hi chahiye to maxf should increase 
                 i++;
             }
 
