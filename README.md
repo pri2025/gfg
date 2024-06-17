@@ -22,6 +22,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0932-monotonic-array](https://github.com/pri2025/gfg/tree/master/0932-monotonic-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/pri2025/gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pri2025/gfg/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pri2025/gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pri2025/gfg/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/pri2025/gfg/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pri2025/gfg/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -32,6 +33,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0424-longest-repeating-character-replacement](https://github.com/pri2025/gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/pri2025/gfg/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pri2025/gfg/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
@@ -52,6 +54,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0050-powx-n](https://github.com/pri2025/gfg/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pri2025/gfg/tree/master/0066-plus-one) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pri2025/gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pri2025/gfg/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pri2025/gfg/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 # Binary Search
@@ -93,3 +96,4 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0424-longest-repeating-character-replacement](https://github.com/pri2025/gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/pri2025/gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pri2025/gfg/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pri2025/gfg/tree/master/1370-count-number-of-nice-subarrays) |
