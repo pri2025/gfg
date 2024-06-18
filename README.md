@@ -16,6 +16,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pri2025/gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pri2025/gfg/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pri2025/gfg/tree/master/0240-search-a-2d-matrix-ii) |
+| [0455-assign-cookies](https://github.com/pri2025/gfg/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pri2025/gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/pri2025/gfg/tree/master/0792-binary-search) |
@@ -48,6 +49,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pri2025/gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0455-assign-cookies](https://github.com/pri2025/gfg/tree/master/0455-assign-cookies) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -103,3 +105,11 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1370-count-number-of-nice-subarrays](https://github.com/pri2025/gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pri2025/gfg/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pri2025/gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+# Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/pri2025/gfg/tree/master/0455-assign-cookies) |
+# Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/pri2025/gfg/tree/master/0455-assign-cookies) |
