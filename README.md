@@ -23,6 +23,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0966-binary-subarrays-with-sum](https://github.com/pri2025/gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pri2025/gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pri2025/gfg/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pri2025/gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pri2025/gfg/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/pri2025/gfg/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pri2025/gfg/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -41,6 +42,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/pri2025/gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pri2025/gfg/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pri2025/gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pri2025/gfg/tree/master/1693-sum-of-all-odd-length-subarrays) |
 # Two Pointers
 |  |
@@ -100,3 +102,4 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1046-max-consecutive-ones-iii](https://github.com/pri2025/gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pri2025/gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pri2025/gfg/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pri2025/gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
