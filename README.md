@@ -20,6 +20,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0540-single-element-in-a-sorted-array](https://github.com/pri2025/gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/pri2025/gfg/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/pri2025/gfg/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/pri2025/gfg/tree/master/0932-monotonic-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/pri2025/gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pri2025/gfg/tree/master/1046-max-consecutive-ones-iii) |
@@ -109,6 +110,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pri2025/gfg/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/pri2025/gfg/tree/master/0890-lemonade-change) |
 # Sorting
 |  |
 | ------- |
