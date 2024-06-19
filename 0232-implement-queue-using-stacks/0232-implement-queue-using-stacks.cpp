@@ -23,11 +23,11 @@ public:
         }
        int y =  s2.top();
        s2.pop();
-       while(!s2.empty()){
-            temp = s2.top();
-            s1.push(temp);
-            s2.pop();
-        }
+    //    while(!s2.empty()){
+    //         temp = s2.top();
+    //         s1.push(temp);
+    //         s2.pop();
+    //     }
        return y;
     }
     
@@ -42,16 +42,16 @@ public:
             s1.pop();
         }
         int y = s2.top();
-        while(!s2.empty()){
-            temp = s2.top();
-            s1.push(temp);
-            s2.pop();
-        }
+        // while(!s2.empty()){
+        //     temp = s2.top();
+        //     s1.push(temp);
+        //     s2.pop();
+        // }
         return y;
     }
     
     bool empty() {
-        return s1.empty();
+        return s1.empty() && s2.empty();
     }
 };
 
