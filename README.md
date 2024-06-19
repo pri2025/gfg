@@ -115,3 +115,15 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pri2025/gfg/tree/master/0455-assign-cookies) |
+# Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/pri2025/gfg/tree/master/0225-implement-stack-using-queues) |
+# Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/pri2025/gfg/tree/master/0225-implement-stack-using-queues) |
+# Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/pri2025/gfg/tree/master/0225-implement-stack-using-queues) |
