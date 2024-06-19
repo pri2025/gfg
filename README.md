@@ -94,6 +94,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pri2025/gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/pri2025/gfg/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/pri2025/gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pri2025/gfg/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 # Sliding Window
@@ -118,6 +119,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pri2025/gfg/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/pri2025/gfg/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pri2025/gfg/tree/master/0232-implement-queue-using-stacks) |
 # Design
