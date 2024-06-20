@@ -17,6 +17,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0162-find-peak-element](https://github.com/pri2025/gfg/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pri2025/gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/pri2025/gfg/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/pri2025/gfg/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pri2025/gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/pri2025/gfg/tree/master/0792-binary-search) |
@@ -34,6 +35,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pri2025/gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/pri2025/gfg/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/pri2025/gfg/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/pri2025/gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pri2025/gfg/tree/master/1370-count-number-of-nice-subarrays) |
@@ -123,6 +125,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0155-min-stack](https://github.com/pri2025/gfg/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pri2025/gfg/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pri2025/gfg/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/pri2025/gfg/tree/master/0496-next-greater-element-i) |
 # Design
 |  |
 | ------- |
@@ -134,3 +137,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pri2025/gfg/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pri2025/gfg/tree/master/0232-implement-queue-using-stacks) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/pri2025/gfg/tree/master/0496-next-greater-element-i) |
