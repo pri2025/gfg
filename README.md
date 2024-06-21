@@ -18,6 +18,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0240-search-a-2d-matrix-ii](https://github.com/pri2025/gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/pri2025/gfg/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/pri2025/gfg/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/pri2025/gfg/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pri2025/gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pri2025/gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/pri2025/gfg/tree/master/0792-binary-search) |
@@ -126,6 +127,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0225-implement-stack-using-queues](https://github.com/pri2025/gfg/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pri2025/gfg/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/pri2025/gfg/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/pri2025/gfg/tree/master/0503-next-greater-element-ii) |
 # Design
 |  |
 | ------- |
@@ -141,3 +143,4 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/pri2025/gfg/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/pri2025/gfg/tree/master/0503-next-greater-element-ii) |
