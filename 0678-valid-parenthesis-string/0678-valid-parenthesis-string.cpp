@@ -3,74 +3,53 @@ public:
     bool checkValidString(string s) {
         stack<int> left;
         stack<int> a;
-        // int l = 0;
-        // int r= 0;
-        // int c = 0;
-        
-        for(int i =0; i<s.length(); i++){
-            if(s[i] == '('){
-                left.push(i);
+        int l = 0, r= 0; // maintain a range, +1 for ( -1 for ), +1, 0 -1 for *
+        for(char i : s){
+            if(i == '('){
+                l++;
+                r++;
             }
-            else if(s[i] == ')'){
-                if(!left.empty()){
-                    left.pop();
-                }
-                else if(!a.empty()){
-                    a.pop();
-                }
-                else{
-                    return false;
-                }
+            else if(i == ')'){
+                l--;
+                r--;
             }
-            else{//star
-                a.push(i);
+            else{
+                l--;
+                r++;
             }
-        }
-
-        while(!left.empty()){
-            if(a.empty() || a.top() < left.top()){
-                return false;
-            }
-            left.pop();
-            a.pop();
-        }
-        return true;
-    }
+            if(l < 0) l = 0;// * ko ( consider nhi krenge
+            if(r < 0) return false;
+        } 
+        return l == 0; 
+    }  
 };
 
-    // for(char i : s){
-    //         if(i == '('){
-    //             left++;
+//for(int i =0; i<s.length(); i++){ tc and sc O(n)
+    //         if(s[i] == '('){
+    //             left.push(i);
     //         }
-    //         else if(i == ')'){
-    //             right++;
+    //         else if(s[i] == ')'){
+    //             if(!left.empty()){
+    //                 left.pop();
+    //             }
+    //             else if(!a.empty()){
+    //                 a.pop();
+    //             }
+    //             else{
+    //                 return false;
+    //             }
     //         }
-    //         else{
-    //             a++;
+    //         else{//star
+    //             a.push(i);
     //         }
     //     }
 
-    //     if(left == right){
-    //         return true;
+    //     while(!left.empty()){
+    //         if(a.empty() || a.top() < left.top()){
+    //             return false;
+    //         }
+    //         left.pop();
+    //         a.pop();
     //     }
-    //     else if(left < right){
-    //         while( a>0 && left < right){
-    //             left++; a--;
-    //         }
-    //         if(left == right){
-    //             return true;
-    //         }
-    //     }
-    //     else if(right < left){
-    //         while(right < left && a>0){
-    //             right++;
-    //             a--;
-    //         }
-    //         if(left == right){
-    //             return true;
-    //         }
-    //     }
-    //     else 
-    //     return false;
-
- 
+    //     return true;
+    // }
