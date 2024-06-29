@@ -166,6 +166,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
+| [0937-online-stock-span](https://github.com/pri2025/gfg/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pri2025/gfg/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/pri2025/gfg/tree/master/1666-make-the-string-great) |
 ## Greedy
@@ -175,6 +176,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/pri2025/gfg/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/pri2025/gfg/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -184,6 +186,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/pri2025/gfg/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/pri2025/gfg/tree/master/0969-number-of-recent-calls) |
 ## Array
 |  |
@@ -193,4 +196,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/pri2025/gfg/tree/master/2195-time-needed-to-buy-tickets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/pri2025/gfg/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
