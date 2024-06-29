@@ -168,4 +168,16 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/pri2025/gfg/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/pri2025/gfg/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/pri2025/gfg/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
