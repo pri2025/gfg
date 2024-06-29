@@ -11,16 +11,12 @@ public:
                 st.push(s[i]);
             }
         }
-        vector<char> result;
-        while (!st.empty()) {
-            result.push_back(st.top());
-            st.pop();
-        }
-    
-    // Reverse the result since we collected it in reverse order
-        reverse(result.begin(), result.end());
-    
-    // Convert the vector to a string
+        vector<char> result(st.size());
+            for(int i = st.size() - 1; i>=0; i--){
+                result[i] = st.top();
+                st.pop();
+            }
+
         return string(result.begin(), result.end());
     //     string ans = "";
     //     while(!st.empty()){
