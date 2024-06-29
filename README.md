@@ -157,6 +157,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pri2025/gfg/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/pri2025/gfg/tree/master/1666-make-the-string-great) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +167,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pri2025/gfg/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/pri2025/gfg/tree/master/1666-make-the-string-great) |
 ## Greedy
 |  |
 | ------- |
