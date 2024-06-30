@@ -1,27 +1,39 @@
 class Solution {
 public:
-int evalRPN(vector<string>& tokens) {
- int n = tokens.size();
-    stack<int>st;
-    for(int i=0;i<n;i++){
-        if(tokens[i] == "+" or tokens[i] == "-" or tokens[i] == "*" or tokens[i] == "/"){
-                int num1 = st.top(); st.pop();
-                int num2 = st.top(); st.pop();
-                int newNum = 0;
-                if(tokens[i] == "+") newNum = num2+num1;
-                else if(tokens[i] == "-") newNum = num2-num1;
-                else if(tokens[i] == "*") newNum = num2*num1;
-                else newNum = num2/num1;
-                st.push(newNum);
+
+   int evalRPN(vector<string>& tokens) {
+        stack<int> stk;
+        for(string str : tokens) {
+            if(str == "+" || str == "-" || str == "*" || str == "/") {
+                int val1 = stk.top();
+                stk.pop();
+                int val2 = stk.top();
+                stk.pop();
+                int result;
+                if(str == "+") {
+                    result = val2 + val1;
+                }
+                else if(str == "-") {
+                    result = val2 - val1;
+                }
+                else if(str == "*") {
+                    result = val2 * val1;
+                }
+                else if(str == "/") {
+                    result = val2 / val1;
+                }
+                stk.push(result);
+            }
+            else {
+                stk.push(stoi(str));
+            }
         }
-        else st.push(stoi(tokens[i]));
+        return stk.top();
     }
-    return st.top();
-      }
     // stack<int> st;
     // int evalRPN(vector<string>& s) {
-    //     for(int i = 0; i<s.size(); i++){
-    //         if(s[i] == '+' ||  s[i] == '-' || s[i] == '*'|| s[i] ='/'){
+    //     for(string i : s){
+    //         if(i == '+' || i == '-' ||i== '*'|| i ='/'){
     //             int a = st.top(); st.pop();
     //             int b = st.top(); st.pop();
     //             if(s[i] == '+'){
@@ -38,7 +50,7 @@ int evalRPN(vector<string>& tokens) {
     //             }
     //         }
     //         else{
-    //             st.push(stoi(s[i]));
+    //             st.push(stoi(i));
     //         }
             
     //     }
