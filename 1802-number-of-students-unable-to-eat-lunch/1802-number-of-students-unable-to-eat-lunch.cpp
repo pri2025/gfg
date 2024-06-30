@@ -10,9 +10,9 @@ public:
             else c2++;//0
         }
 
-        for(int i = sw.size()-1 ; i >= 0; i--){
-            st.push(sw[i]);
-        }
+        // for(int i = sw.size()-1 ; i >= 0; i--){
+        //     st.push(sw[i]);
+        // }
         for(int i : sw){
             if(i == 0 && c2 == 0){
                 return c1;
@@ -33,7 +33,7 @@ public:
     }
 
     //     int cnt = stud.size();
-    //     int a = 0;
+    //     int a = 0; //last served
     //     while(!q.empty() && a < q.size()){
     //         if(st.top() == q.front()){
     //             st.pop();
