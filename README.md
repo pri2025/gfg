@@ -155,6 +155,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pri2025/gfg/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pri2025/gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -217,10 +218,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pri2025/gfg/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pri2025/gfg/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
