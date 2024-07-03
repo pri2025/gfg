@@ -1,7 +1,7 @@
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
-        map<char,int> mp;
+        unordered_map<char,int> mp;
         for(int i=0; i<tasks.size(); i++){
             mp[tasks[i]]++;
         }
