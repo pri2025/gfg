@@ -2,7 +2,7 @@ class KthLargest {
 public:
     int k = 0;
     priority_queue<int, vector<int>, greater<int>> pq;
-    KthLargest(int k, vector<int>& nums): k(k) {
+    KthLargest(int K, vector<int>& nums): k(K) {
         //int k = K;
         int mini = INT_MAX;
        for(int i =0; i<nums.size(); i++){
