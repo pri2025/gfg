@@ -167,6 +167,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pri2025/gfg/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -183,6 +184,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pri2025/gfg/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
@@ -209,6 +211,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pri2025/gfg/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
