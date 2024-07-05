@@ -191,6 +191,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/pri2025/gfg/tree/master/0355-design-twitter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/pri2025/gfg/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/pri2025/gfg/tree/master/0969-number-of-recent-calls) |
 ## Queue
@@ -202,6 +203,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/pri2025/gfg/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/pri2025/gfg/tree/master/0969-number-of-recent-calls) |
 ## Array
@@ -249,6 +251,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0355-design-twitter](https://github.com/pri2025/gfg/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -274,4 +277,16 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/pri2025/gfg/tree/master/0151-reverse-words-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
