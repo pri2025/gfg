@@ -9,12 +9,13 @@ public:
         priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> minheap;
 
         for(auto it : mp){
-            if(minheap.size() < k){
+            //if(minheap.size() < k){
                 minheap.push({it.second,it.first});
-            }
-            else if(it.second > minheap.top().first){
+            //}
+            //else if(it.second > minheap.top().first)
+            if(minheap.size() > k){
                 minheap.pop();
-                minheap.push({it.second,it.first});
+                //minheap.push({it.second,it.first});
             }
         }
         vector<int> res;
