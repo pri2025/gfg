@@ -211,6 +211,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -233,6 +234,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pri2025/gfg/tree/master/0013-roman-to-integer) |
+| [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/pri2025/gfg/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
@@ -241,6 +243,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
@@ -248,6 +251,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/pri2025/gfg/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
@@ -255,20 +259,24 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
