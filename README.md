@@ -215,6 +215,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0045-jump-game-ii](https://github.com/pri2025/gfg/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pri2025/gfg/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/pri2025/gfg/tree/master/0057-insert-interval) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
