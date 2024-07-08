@@ -294,10 +294,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/pri2025/gfg/tree/master/0355-design-twitter) |
+| [0908-middle-of-the-linked-list](https://github.com/pri2025/gfg/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/pri2025/gfg/tree/master/0151-reverse-words-in-a-string) |
+| [0908-middle-of-the-linked-list](https://github.com/pri2025/gfg/tree/master/0908-middle-of-the-linked-list) |
 ## Tree
 |  |
 | ------- |
