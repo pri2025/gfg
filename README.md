@@ -293,6 +293,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pri2025/gfg/tree/master/0021-merge-two-sorted-lists) |
 | [0355-design-twitter](https://github.com/pri2025/gfg/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/pri2025/gfg/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pri2025/gfg/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -314,4 +315,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pri2025/gfg/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
