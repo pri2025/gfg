@@ -175,6 +175,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/pri2025/gfg/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [0937-online-stock-span](https://github.com/pri2025/gfg/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pri2025/gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -294,6 +295,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pri2025/gfg/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/pri2025/gfg/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pri2025/gfg/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/pri2025/gfg/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/pri2025/gfg/tree/master/0908-middle-of-the-linked-list) |
@@ -302,6 +304,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/pri2025/gfg/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/pri2025/gfg/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pri2025/gfg/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pri2025/gfg/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
@@ -320,4 +323,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pri2025/gfg/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/pri2025/gfg/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
