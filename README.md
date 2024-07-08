@@ -295,6 +295,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/pri2025/gfg/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/pri2025/gfg/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/pri2025/gfg/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/pri2025/gfg/tree/master/0234-palindrome-linked-list) |
@@ -306,6 +307,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/pri2025/gfg/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/pri2025/gfg/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/pri2025/gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/pri2025/gfg/tree/master/0234-palindrome-linked-list) |
