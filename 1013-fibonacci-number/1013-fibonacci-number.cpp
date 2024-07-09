@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int fn(int n, map<int,int>& mp){
+    int fn(int n, unordered_map<int,int>& mp){
         if(n== 0 || n== 1) return n;
 
         if(mp.find(n) != mp.end()) return mp[n];
@@ -9,7 +9,7 @@ public:
         return mp[n];
     }
     int fib(int n) {
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         return fn(n,mp);
     }
 };
