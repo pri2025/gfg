@@ -169,6 +169,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0045-jump-game-ii](https://github.com/pri2025/gfg/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pri2025/gfg/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/pri2025/gfg/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
@@ -244,6 +245,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pri2025/gfg/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
 ## Hash Table
@@ -338,5 +340,6 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
