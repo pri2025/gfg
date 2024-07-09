@@ -175,6 +175,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/pri2025/gfg/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Stack
 |  |
 | ------- |
@@ -249,6 +250,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0070-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/pri2025/gfg/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Hash Table
 |  |
 | ------- |
