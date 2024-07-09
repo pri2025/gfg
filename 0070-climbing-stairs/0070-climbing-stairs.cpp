@@ -8,11 +8,17 @@ public:
     //     return mp[index];
     // }
     int climbStairs(int n) {
-        vector<int> table(n+1, -1);
-        table[0]= 1; table[1] = 1;
+        //vector<int> table(n+1, -1);
+        //table[0]= 1; table[1] = 1;
+        if(n == 0|| n==1) return 1;
+        int first= 1; int second = 1;
+
         for(int i = 2; i <= n; i++){
-            table[i] = table[i-1] + table[i-2];
+           int curr = first+second;
+           first = second;
+           second = curr;
         }
-        return table[n];
+        return second;
+        //return table[n];
     }
 };
