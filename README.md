@@ -171,6 +171,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0055-jump-game](https://github.com/pri2025/gfg/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/pri2025/gfg/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
+| [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -226,6 +227,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/pri2025/gfg/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
+| [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/pri2025/gfg/tree/master/2195-time-needed-to-buy-tickets) |
