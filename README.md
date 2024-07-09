@@ -171,6 +171,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0055-jump-game](https://github.com/pri2025/gfg/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/pri2025/gfg/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
+| [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -242,6 +243,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0013-roman-to-integer](https://github.com/pri2025/gfg/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -330,4 +332,9 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pri2025/gfg/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/pri2025/gfg/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
