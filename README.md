@@ -181,6 +181,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pri2025/gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pri2025/gfg/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/pri2025/gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/pri2025/gfg/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
@@ -330,6 +331,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pri2025/gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pri2025/gfg/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/pri2025/gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -340,6 +342,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pri2025/gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pri2025/gfg/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/pri2025/gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Recursion
 |  |
@@ -357,4 +360,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pri2025/gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pri2025/gfg/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/pri2025/gfg/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
