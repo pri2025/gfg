@@ -179,6 +179,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pri2025/gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pri2025/gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/pri2025/gfg/tree/master/0234-palindrome-linked-list) |
@@ -327,6 +328,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pri2025/gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pri2025/gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -336,6 +338,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pri2025/gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pri2025/gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Recursion
@@ -352,5 +355,6 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pri2025/gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pri2025/gfg/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
