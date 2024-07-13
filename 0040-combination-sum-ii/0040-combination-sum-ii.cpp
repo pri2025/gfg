@@ -12,7 +12,7 @@ public:
         for (int i = index; i < arr.size(); i++) {
         // Skip duplicates
             if (i > index && arr[i] == arr[i - 1]) continue;
-        
+            if(arr[i] > target) break;
         // Include the current element
             if (arr[i] <= target) {
                 ans.push_back(arr[i]);
