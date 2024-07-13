@@ -1,10 +1,12 @@
 class Solution {
 public:
     void fn(int index,int target,vector<int>& arr,vector<vector<int>> &res,vector<int> &ans){
-        if(index == arr.size()){
-            if(target == 0){
-                res.push_back(ans);
-            }
+        if (target == 0) {
+        res.push_back(ans);
+        return;
+        }
+
+        if (index == arr.size() || target < 0) {
             return;
         }
 
