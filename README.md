@@ -225,6 +225,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/pri2025/gfg/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/pri2025/gfg/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/pri2025/gfg/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pri2025/gfg/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pri2025/gfg/tree/master/0056-merge-intervals) |
@@ -372,4 +373,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/pri2025/gfg/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/pri2025/gfg/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
