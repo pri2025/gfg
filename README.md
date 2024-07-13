@@ -224,6 +224,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/pri2025/gfg/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/pri2025/gfg/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pri2025/gfg/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pri2025/gfg/tree/master/0056-merge-intervals) |
@@ -367,4 +368,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pri2025/gfg/tree/master/0102-binary-tree-level-order-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/pri2025/gfg/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
