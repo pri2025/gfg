@@ -96,19 +96,42 @@ struct Node {
 };*/
 class Solution{
     public:
-    void fn(Node* node, vector<int> &res){
-        if(node == NULL) return;
+    // void fn(Node* node, vector<int> &res){
+    //     if(node == NULL) return;
         
-        fn(node->left,res);
-        fn(node->right,res);
-        res.push_back(node->data);
-    }
+    //     fn(node->left,res);
+    //     fn(node->right,res);
+    //     res.push_back(node->data);
+    // }
     
     
     vector<int> postOrder(Node* node) {
         // code here
+        if(node == NULL){
+            return {};
+        }
+        
+        stack<Node*> st; stack<int> st2;
+        
+        st.push(node);
+        while(!st.empty()){
+            Node* temp = st.top();
+            st.pop();
+            st2.push(temp->data);
+            
+            if(temp->left != NULL){
+                st.push(temp->left);
+            }
+            if(temp->right != NULL){
+                st.push(temp->right);
+            }
+        }
         vector<int> res;
-        fn(node,res);
+        while(!st2.empty()){
+            res.push_back(st2.top());
+            st2.pop();
+        }
+        //fn(node,res);
         return res;
     }
 };
