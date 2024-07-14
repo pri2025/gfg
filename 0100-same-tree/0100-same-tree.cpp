@@ -36,11 +36,13 @@ public:
         if(p->val != q->val) return false;
 
         return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
+
         // fn(p,in1);
         // fn2(q,in2);
         // if(in1 == in2){
         //     return true;
         // }
         // return false;
+        return true;
     }
 };
