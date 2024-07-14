@@ -16,8 +16,13 @@ public:
             return 0;
         }
         int lh = fn(root->left);
+        if(lh == -1) return -1;
+
 
         int rh = fn(root->right);
+        if(rh == -1) return -1;
+
+        if(abs(lh-rh) > 1) return -1;
 
         return 1+max(lh,rh);
     }
@@ -26,15 +31,10 @@ public:
             return true;
         }
 
-        int lsub = fn(root->left);
-        int rsub = fn(root->right);
-        
-        
-         if (abs(lsub - rsub) <= 1 &&
-            isBalanced(root->left) &&
-            isBalanced(root->right)) {
+        if(fn(root) != -1){
             return true;
         }
+    
         
         return false;
         
