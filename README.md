@@ -231,6 +231,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0056-merge-intervals](https://github.com/pri2025/gfg/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pri2025/gfg/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/pri2025/gfg/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/pri2025/gfg/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
@@ -383,8 +384,10 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0039-combination-sum](https://github.com/pri2025/gfg/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pri2025/gfg/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/pri2025/gfg/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/pri2025/gfg/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pri2025/gfg/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/pri2025/gfg/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
