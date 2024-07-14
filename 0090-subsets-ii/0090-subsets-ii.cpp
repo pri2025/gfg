@@ -3,7 +3,7 @@ public:
     void fn(int index,vector<int>& nums,vector<int> cnt,vector<vector<int>> &res ){
 
         res.push_back(cnt);
-       
+   
 
         for(int i = index; i<nums.size(); i++){
             if(i > index && nums[i] == nums[i-1]) continue;
