@@ -29,8 +29,6 @@ public:
     int kthSmallest(TreeNode* root, int k) {
         stack<int> st; int cnt = 0;
         fn(root,k,st,cnt);
-        int t = st.top();
-        return t;
-        
+        return st.top();
     }
 };
