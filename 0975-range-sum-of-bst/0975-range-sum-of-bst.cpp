@@ -15,8 +15,10 @@ public:
         if(root == nullptr) return;
 
         if(root->val >= low && root->val <= high) sum += root->val;
-        fn(root->left,low,high,sum);
-        fn(root->right,low,high,sum);
+        if(root->val >low) fn(root->left,low,high,sum);
+        if(root->val < high) fn(root->right,low,high,sum);
+        // fn(root->left,low,high,sum);
+        // fn(root->right,low,high,sum);
     }
     int rangeSumBST(TreeNode* root, int low, int high) {
         int sum = 0;
