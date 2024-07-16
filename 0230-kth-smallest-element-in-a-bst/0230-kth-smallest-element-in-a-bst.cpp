@@ -12,23 +12,28 @@
 class Solution {
 public:
     
-    void fn(TreeNode* root, int k,stack<int> &st,int &cnt){
+    void fn(TreeNode* root, int k,int &s,int &cnt){
         if(cnt >= k || root == nullptr){
             return;
         }
 
-        fn(root->left, k,st,cnt);
-        if(cnt < k){
-            st.push(root->val);
-            cnt++;
+        fn(root->left, k,s,cnt);
+        cnt++;
+        if(cnt == k){
+            s = root->val;//st.push(root->val);
+            //cnt++; 
+            return;
         }
         
-        fn(root->right,k,st,cnt);
+        fn(root->right,k,s,cnt);
 
     }
     int kthSmallest(TreeNode* root, int k) {
-        stack<int> st; int cnt = 0;
-        fn(root,k,st,cnt);
-        return st.top();
+        //stack<int> st; 
+        int s = INT_MAX;
+        int cnt = 0;
+        fn(root,k,s,cnt);
+        return s;
+        //return st.top();
     }
 };
