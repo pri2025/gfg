@@ -349,6 +349,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0784-insert-into-a-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/pri2025/gfg/tree/master/0975-range-sum-of-bst) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/pri2025/gfg/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2384-root-equals-sum-of-children](https://github.com/pri2025/gfg/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
@@ -379,6 +380,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0784-insert-into-a-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/pri2025/gfg/tree/master/0975-range-sum-of-bst) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/pri2025/gfg/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2384-root-equals-sum-of-children](https://github.com/pri2025/gfg/tree/master/2384-root-equals-sum-of-children) |
 ## Recursion
 |  |
@@ -405,6 +407,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pri2025/gfg/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/pri2025/gfg/tree/master/0975-range-sum-of-bst) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/pri2025/gfg/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
 | ------- |
