@@ -239,6 +239,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 | [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
+| [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/pri2025/gfg/tree/master/2195-time-needed-to-buy-tickets) |
 ## Simulation
@@ -417,6 +418,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pri2025/gfg/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pri2025/gfg/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -437,4 +439,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
