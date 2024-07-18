@@ -406,6 +406,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pri2025/gfg/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pri2025/gfg/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
 | [0975-range-sum-of-bst](https://github.com/pri2025/gfg/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pri2025/gfg/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
@@ -415,6 +416,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0102-binary-tree-level-order-traversal](https://github.com/pri2025/gfg/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pri2025/gfg/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pri2025/gfg/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
 ## Backtracking
 |  |
 | ------- |
@@ -427,4 +429,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0078-subsets](https://github.com/pri2025/gfg/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pri2025/gfg/tree/master/0090-subsets-ii) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
