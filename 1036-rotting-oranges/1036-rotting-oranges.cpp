@@ -28,7 +28,7 @@ public:
                     int x = cell.first + dir.first;
                     int y = cell.second + dir.second;
 
-                    if( (x >=0 && x <grid.size()) && (y >=0 && y<grid[0].size()) && 
+                    if( (x >=0 && x <grid.size()) && (y >=0 && y<grid[x].size()) && 
                         grid[x][y] == 1){
                             grid[x][y] = 2;
                             q.push({x,y});
