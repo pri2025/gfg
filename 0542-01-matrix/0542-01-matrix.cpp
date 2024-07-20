@@ -3,66 +3,42 @@ public:
 
 
 vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-    int n = mat.size();
-    int m = mat[0].size();
-    
-    vector<vector<int>> res(n, vector<int>(m, INT_MAX));
-    queue<pair<int, int>> q;
-
-    // Initialize the queue with all the cells containing 0
-    for (int i = 0; i < n; i++) {
-        for (int j = 0; j < m; j++) {
-            if (mat[i][j] == 0) {
-                q.push({i, j});
-                res[i][j] = 0;  // Distance to the nearest 0 for cells containing 0 is 0
+    vector<vector<int>> res(mat.size(), vector<int>(mat[0].size(),0));
+    vector<vector<int>> vis(mat.size(),vector<int>(mat[0].size(),-1));
+    queue<pair<pair<int,int>,int>> q; // coordinates and steps
+    //enque all zeros
+    for(int i = 0; i<mat.size(); i++){
+        for(int j = 0; j<mat[i].size();j++){
+            if(mat[i][j] == 0){
+                res[i][j] = 0;
+                vis[i][j] = 1;
+                q.push({{i,j},0}); // index of zero
             }
         }
     }
+    vector<pair<int,int>> directions ={{0,1},{0,-1},{1,0},{-1,0}};
 
-    // Directions for moving in the grid (up, down, left, right)
-    vector<pair<int, int>> directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+    while(!q.empty()){
+        int n = q.size();
+        for(int i = 0; i<n;i++){
+            auto cell = q.front();
+            int steps = cell.second; q.pop();
+            for(auto dir : directions){
+                int x = cell.first.first + dir.first;
+                int y = cell.first.second + dir.second;
 
-    // Perform BFS
-    while (!q.empty()) {
-        auto [x, y] = q.front();
-        q.pop();
-
-        for (auto [dx, dy] : directions) {
-            int newX = x + dx;
-            int newY = y + dy;
-
-            if (newX >= 0 && newX < n && newY >= 0 && newY < m) {
-                // If the new cell can be updated with a shorter distance
-                if (res[newX][newY] > res[x][y] + 1) {
-                    res[newX][newY] = res[x][y] + 1;
-                    q.push({newX, newY});
+                if((x >=0 && x< mat.size()) &&(y>=0&& y<mat[x].size())&& vis[x][y] == -1){
+                    vis[x][y] = 1;
+                    res[x][y] = steps+1;
+                    q.push({{x,y},steps+1});
                 }
             }
         }
     }
 
     return res;
+
 }
-
-// int main() {
-//     vector<vector<int>> mat = {
-//         {0, 0, 0},
-//         {0, 1, 0},
-//         {1, 1, 1}
-//     };
-
-//     vector<vector<int>> result = updateMatrix(mat);
-
-//     for (const auto& row : result) {
-//         for (int val : row) {
-//             cout << val << " ";
-//         }
-//         cout << endl;
-//     }
-
-//     return 0;
-// }
-
     // vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
     //     int n = mat.size(); 
 	//     int m = mat[0].size(); 
