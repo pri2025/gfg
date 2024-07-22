@@ -233,6 +233,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0057-insert-interval](https://github.com/pri2025/gfg/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/pri2025/gfg/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pri2025/gfg/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/pri2025/gfg/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
@@ -405,6 +406,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0100-same-tree](https://github.com/pri2025/gfg/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pri2025/gfg/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/pri2025/gfg/tree/master/0110-balanced-binary-tree) |
+| [0130-surrounded-regions](https://github.com/pri2025/gfg/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pri2025/gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pri2025/gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pri2025/gfg/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -421,6 +423,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0102-binary-tree-level-order-traversal](https://github.com/pri2025/gfg/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pri2025/gfg/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pri2025/gfg/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/pri2025/gfg/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/pri2025/gfg/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
@@ -440,6 +443,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/pri2025/gfg/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
@@ -448,6 +452,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/pri2025/gfg/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/pri2025/gfg/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
