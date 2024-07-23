@@ -411,6 +411,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0144-binary-tree-preorder-traversal](https://github.com/pri2025/gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pri2025/gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/pri2025/gfg/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/pri2025/gfg/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pri2025/gfg/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pri2025/gfg/tree/master/0543-diameter-of-binary-tree) |
@@ -428,6 +429,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pri2025/gfg/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/pri2025/gfg/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/pri2025/gfg/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/pri2025/gfg/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/pri2025/gfg/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
@@ -455,6 +457,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pri2025/gfg/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/pri2025/gfg/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
@@ -468,4 +471,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pri2025/gfg/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/pri2025/gfg/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
