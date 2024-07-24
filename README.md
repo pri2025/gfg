@@ -417,6 +417,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0543-diameter-of-binary-tree](https://github.com/pri2025/gfg/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/pri2025/gfg/tree/master/0820-find-eventual-safe-states) |
 | [0975-range-sum-of-bst](https://github.com/pri2025/gfg/tree/master/0975-range-sum-of-bst) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pri2025/gfg/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -433,6 +434,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0542-01-matrix](https://github.com/pri2025/gfg/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/pri2025/gfg/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 ## Backtracking
@@ -459,6 +461,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0207-course-schedule](https://github.com/pri2025/gfg/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pri2025/gfg/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/pri2025/gfg/tree/master/0820-find-eventual-safe-states) |
 ## Matrix
 |  |
 | ------- |
@@ -472,4 +475,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0207-course-schedule](https://github.com/pri2025/gfg/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pri2025/gfg/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/pri2025/gfg/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
