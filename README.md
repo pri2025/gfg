@@ -307,6 +307,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -319,6 +320,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pri2025/gfg/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/pri2025/gfg/tree/master/0021-merge-two-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/pri2025/gfg/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/pri2025/gfg/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pri2025/gfg/tree/master/0237-delete-node-in-a-linked-list) |
@@ -346,6 +348,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0102-binary-tree-level-order-traversal](https://github.com/pri2025/gfg/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pri2025/gfg/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pri2025/gfg/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/pri2025/gfg/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pri2025/gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pri2025/gfg/tree/master/0145-binary-tree-postorder-traversal) |
@@ -363,6 +366,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0098-validate-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pri2025/gfg/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0783-search-in-a-binary-search-tree) |
@@ -379,6 +383,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0102-binary-tree-level-order-traversal](https://github.com/pri2025/gfg/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pri2025/gfg/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pri2025/gfg/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/pri2025/gfg/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pri2025/gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pri2025/gfg/tree/master/0145-binary-tree-postorder-traversal) |
