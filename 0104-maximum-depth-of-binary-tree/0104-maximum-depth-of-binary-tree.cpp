@@ -11,35 +11,19 @@
  */
 class Solution {
 public:
+    int d = 0;
+    int fn(TreeNode* root){
+        if(root== nullptr) return 0;
+
+        int l = fn(root->left);
+        int r = fn(root->right);
+
+        int a = max(l,r) + 1;
+        d = max(d,a);
+        return a;
+    }
     int maxDepth(TreeNode* root) {
-        if(root == NULL){
-            return 0;
-        }
-        int lh = maxDepth(root->left);
-
-        int rh = maxDepth(root->right);
-
-        return 1+max(lh,rh);  
+        fn(root);
+        return d;
     }
 };
-
- //vector<vector<int>> ans;
-    //    queue<TreeNode*> q;
-    //    q.push(root);
-    //    while(!q.empty()){
-    //     vector<int> level;
-    //     int n = q.size();
-        
-    //     for(int i = 0; i<n;i++){
-    //         TreeNode* node = q.front(); q.pop();
-    //         if(node->left != NULL){
-    //             q.push(node->left);
-    //         }
-    //         if(node->right != NULL){
-    //             q.push(node->right);
-    //         }
-    //         level.push_back(node->val);
-    //     }
-    //     ans.push_back(level);
-    //    }
-    //    return ans.size();
