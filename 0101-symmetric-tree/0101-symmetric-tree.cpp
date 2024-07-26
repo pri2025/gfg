@@ -28,8 +28,8 @@ public:
     }
     bool isSymmetric(TreeNode* root) {
         //TreeNode* root1 = root;
-        TreeNode* newroot = invert(root->left);
-        return same(root->right,newroot);
+        TreeNode* newroot = invert(root->left);//sirf ek side invert kro
+        return same(root->right,newroot);//dono subtrees compare kro if same
         
     }
 };
