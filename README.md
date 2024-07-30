@@ -167,6 +167,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pri2025/gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pri2025/gfg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/pri2025/gfg/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/pri2025/gfg/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +209,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pri2025/gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/pri2025/gfg/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Design
 |  |
 | ------- |
