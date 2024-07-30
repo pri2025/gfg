@@ -165,6 +165,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pri2025/gfg/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/pri2025/gfg/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pri2025/gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/pri2025/gfg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/pri2025/gfg/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
 |  |
@@ -177,6 +178,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/pri2025/gfg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/pri2025/gfg/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Stack
 |  |
@@ -194,6 +196,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pri2025/gfg/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/pri2025/gfg/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pri2025/gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/pri2025/gfg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Greedy
 |  |
