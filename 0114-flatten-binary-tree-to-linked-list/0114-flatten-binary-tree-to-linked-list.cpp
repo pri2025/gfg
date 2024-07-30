@@ -11,28 +11,38 @@
  */
 class Solution {
 public:
-    void fn(TreeNode* root,queue<int> &q){
-        if(root == nullptr) return;
+    // void fn(TreeNode* root,queue<int> &q){
+    //     if(root == nullptr) return;
 
-        q.push(root->val);
-        fn(root->left,q);
-        fn(root->right,q);
-    }
+    //     q.push(root->val);
+    //     fn(root->left,q);
+    //     fn(root->right,q);
+    // }
+    TreeNode* prev = nullptr;
     void flatten(TreeNode* root) {
+
         if(root == nullptr) return;
-        queue<int> q;
-        fn(root,q);
 
-        TreeNode* curr = root;
-        curr->left = nullptr;
-        q.pop();
+        flatten(root->right);
+        flatten(root->left);
 
-        while(!q.empty()){
+        root->right = prev;
+        root->left = nullptr;
+        prev = root;
+
+       // queue<int> q;
+        // fn(root,q);
+
+        // TreeNode* curr = root;
+        // curr->left = nullptr;
+        // q.pop();
+
+        // while(!q.empty()){
           
-            curr->right = new TreeNode(q.front()); q.pop();
-            curr = curr->right;
-            //curr->left = nullptr; 
-        }
-        //return curr;
+        //     curr->right = new TreeNode(q.front()); q.pop();
+        //     curr = curr->right;
+        //     //curr->left = nullptr; 
+        // }
+       
     }
 };
