@@ -179,6 +179,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
+| [1196-filling-bookcase-shelves](https://github.com/pri2025/gfg/tree/master/1196-filling-bookcase-shelves) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pri2025/gfg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/pri2025/gfg/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Stack
@@ -253,6 +254,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
+| [1196-filling-bookcase-shelves](https://github.com/pri2025/gfg/tree/master/1196-filling-bookcase-shelves) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/pri2025/gfg/tree/master/2195-time-needed-to-buy-tickets) |
 | [3334-apple-redistribution-into-boxes](https://github.com/pri2025/gfg/tree/master/3334-apple-redistribution-into-boxes) |
