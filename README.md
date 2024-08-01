@@ -250,6 +250,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0130-surrounded-regions](https://github.com/pri2025/gfg/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/pri2025/gfg/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/pri2025/gfg/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/pri2025/gfg/tree/master/0435-non-overlapping-intervals) |
@@ -280,6 +281,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0013-roman-to-integer](https://github.com/pri2025/gfg/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/pri2025/gfg/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/pri2025/gfg/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Hash Table
@@ -364,6 +366,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0125-valid-palindrome](https://github.com/pri2025/gfg/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/pri2025/gfg/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/pri2025/gfg/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/pri2025/gfg/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/pri2025/gfg/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pri2025/gfg/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pri2025/gfg/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
