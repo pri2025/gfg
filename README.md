@@ -249,6 +249,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0090-subsets-ii](https://github.com/pri2025/gfg/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/pri2025/gfg/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/pri2025/gfg/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/pri2025/gfg/tree/master/0435-non-overlapping-intervals) |
@@ -286,6 +287,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0013-roman-to-integer](https://github.com/pri2025/gfg/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/pri2025/gfg/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/pri2025/gfg/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/pri2025/gfg/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
@@ -296,6 +298,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0056-merge-intervals](https://github.com/pri2025/gfg/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/pri2025/gfg/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/pri2025/gfg/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/pri2025/gfg/tree/master/0435-non-overlapping-intervals) |
@@ -320,6 +323,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pri2025/gfg/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
@@ -327,6 +331,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/pri2025/gfg/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
