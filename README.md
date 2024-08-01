@@ -167,6 +167,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pri2025/gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pri2025/gfg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/pri2025/gfg/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2727-number-of-senior-citizens](https://github.com/pri2025/gfg/tree/master/2727-number-of-senior-citizens) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/pri2025/gfg/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Dynamic Programming
 |  |
@@ -257,6 +258,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1196-filling-bookcase-shelves](https://github.com/pri2025/gfg/tree/master/1196-filling-bookcase-shelves) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/pri2025/gfg/tree/master/2195-time-needed-to-buy-tickets) |
+| [2727-number-of-senior-citizens](https://github.com/pri2025/gfg/tree/master/2727-number-of-senior-citizens) |
 | [3334-apple-redistribution-into-boxes](https://github.com/pri2025/gfg/tree/master/3334-apple-redistribution-into-boxes) |
 ## Simulation
 |  |
