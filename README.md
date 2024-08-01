@@ -235,6 +235,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/pri2025/gfg/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/pri2025/gfg/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pri2025/gfg/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/pri2025/gfg/tree/master/0045-jump-game-ii) |
@@ -349,6 +350,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pri2025/gfg/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/pri2025/gfg/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/pri2025/gfg/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pri2025/gfg/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/pri2025/gfg/tree/master/0141-linked-list-cycle) |
