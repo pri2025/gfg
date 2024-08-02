@@ -266,6 +266,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1196-filling-bookcase-shelves](https://github.com/pri2025/gfg/tree/master/1196-filling-bookcase-shelves) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/pri2025/gfg/tree/master/2195-time-needed-to-buy-tickets) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pri2025/gfg/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/pri2025/gfg/tree/master/2727-number-of-senior-citizens) |
 | [3334-apple-redistribution-into-boxes](https://github.com/pri2025/gfg/tree/master/3334-apple-redistribution-into-boxes) |
 ## Simulation
@@ -538,4 +539,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0207-course-schedule](https://github.com/pri2025/gfg/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pri2025/gfg/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/pri2025/gfg/tree/master/0820-find-eventual-safe-states) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pri2025/gfg/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
