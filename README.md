@@ -156,6 +156,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pri2025/gfg/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/pri2025/gfg/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/pri2025/gfg/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/pri2025/gfg/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pri2025/gfg/tree/master/0151-reverse-words-in-a-string) |
@@ -545,4 +546,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pri2025/gfg/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pri2025/gfg/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
