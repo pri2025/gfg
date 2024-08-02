@@ -156,6 +156,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pri2025/gfg/tree/master/0013-roman-to-integer) |
+| [0072-edit-distance](https://github.com/pri2025/gfg/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/pri2025/gfg/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pri2025/gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
@@ -175,6 +176,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0045-jump-game-ii](https://github.com/pri2025/gfg/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pri2025/gfg/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/pri2025/gfg/tree/master/0072-edit-distance) |
 | [0435-non-overlapping-intervals](https://github.com/pri2025/gfg/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/pri2025/gfg/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
