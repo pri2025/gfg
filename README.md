@@ -177,6 +177,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0055-jump-game](https://github.com/pri2025/gfg/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/pri2025/gfg/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pri2025/gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/pri2025/gfg/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/pri2025/gfg/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
@@ -249,6 +250,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pri2025/gfg/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pri2025/gfg/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pri2025/gfg/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pri2025/gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/pri2025/gfg/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/pri2025/gfg/tree/master/0169-majority-element) |
