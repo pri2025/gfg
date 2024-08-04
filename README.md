@@ -270,6 +270,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 | [1196-filling-bookcase-shelves](https://github.com/pri2025/gfg/tree/master/1196-filling-bookcase-shelves) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pri2025/gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/pri2025/gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/pri2025/gfg/tree/master/2195-time-needed-to-buy-tickets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pri2025/gfg/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -318,6 +319,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pri2025/gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/pri2025/gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3334-apple-redistribution-into-boxes](https://github.com/pri2025/gfg/tree/master/3334-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
 |  |
@@ -380,6 +382,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0189-rotate-array](https://github.com/pri2025/gfg/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/pri2025/gfg/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pri2025/gfg/tree/master/0908-middle-of-the-linked-list) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/pri2025/gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pri2025/gfg/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
@@ -420,6 +423,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0784-insert-into-a-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/pri2025/gfg/tree/master/0975-range-sum-of-bst) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/pri2025/gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Tree
 |  |
 | ------- |
