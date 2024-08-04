@@ -2,35 +2,31 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 // } Driver Code Ends
-class Solution
-{
-    public:
-    //Function to find the maximum number of meetings that can
-    //be performed in a meeting room.
-    vector<pair<int,int>> vec;
-    bool static comparator(pair<int,int> &a, pair<int,int> &b){
-            return a.second < b.second;
-        }
-    int maxMeetings(int s[], int end[], int n)
-    {
+class Solution {
+  public:
+    // Function to find the maximum number of meetings that can
+    // be performed in a meeting room.
+    bool static cmp(pair<int,int> a, pair<int,int> b){
+        return a.second < b.second;
         
+    }
+    int maxMeetings(int n, int start[], int end[]) {
         // Your code here
-        int i = 0, j = 0;
-        while(i<n && j <n){
-           vec.push_back({s[i],end[j]});
-           i++; j++;
+        vector<pair<int,int>> group;
+        for(int i = 0; i<n;i++){
+            group.push_back({start[i],end[i]});
         }
-        sort(vec.begin(), vec.end(), comparator);
-        int k = 1;
+        
+        sort(group.begin(),group.end(), cmp);
+        int i = 0; int j = 1;
         int cnt = 1;
-        int it = 0;
-        while(k < vec.size()){
-            if(vec[k].first > vec[it].second){
-                cnt++;
-                it = k;
+        while(j < n){
+            if(group[j].first > group[i].second){
+                cnt++;i = j;
             }
-            k++;
+            j++;
         }
         return cnt;
     }
@@ -44,12 +40,14 @@ int main() {
         int n;
         cin >> n;
         int start[n], end[n];
-        for (int i = 0; i < n; i++) cin >> start[i];
+        for (int i = 0; i < n; i++)
+            cin >> start[i];
 
-        for (int i = 0; i < n; i++) cin >> end[i];
+        for (int i = 0; i < n; i++)
+            cin >> end[i];
 
         Solution ob;
-        int ans = ob.maxMeetings(start, end, n);
+        int ans = ob.maxMeetings(n, start, end);
         cout << ans << endl;
     }
     return 0;
