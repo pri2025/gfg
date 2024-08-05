@@ -168,6 +168,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1666-make-the-string-great](https://github.com/pri2025/gfg/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pri2025/gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pri2025/gfg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/pri2025/gfg/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/pri2025/gfg/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2727-number-of-senior-citizens](https://github.com/pri2025/gfg/tree/master/2727-number-of-senior-citizens) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/pri2025/gfg/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -272,6 +273,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pri2025/gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pri2025/gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/pri2025/gfg/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/pri2025/gfg/tree/master/2195-time-needed-to-buy-tickets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pri2025/gfg/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/pri2025/gfg/tree/master/2727-number-of-senior-citizens) |
@@ -307,6 +309,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pri2025/gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pri2025/gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/pri2025/gfg/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -344,6 +347,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/pri2025/gfg/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
