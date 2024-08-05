@@ -305,6 +305,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pri2025/gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pri2025/gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sorting
 |  |
@@ -318,6 +319,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pri2025/gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pri2025/gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pri2025/gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3334-apple-redistribution-into-boxes](https://github.com/pri2025/gfg/tree/master/3334-apple-redistribution-into-boxes) |
@@ -410,6 +412,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0784-insert-into-a-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/pri2025/gfg/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pri2025/gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pri2025/gfg/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2384-root-equals-sum-of-children](https://github.com/pri2025/gfg/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -450,6 +453,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0784-insert-into-a-binary-search-tree](https://github.com/pri2025/gfg/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/pri2025/gfg/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pri2025/gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pri2025/gfg/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2384-root-equals-sum-of-children](https://github.com/pri2025/gfg/tree/master/2384-root-equals-sum-of-children) |
 ## Recursion
@@ -489,6 +493,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/pri2025/gfg/tree/master/0820-find-eventual-safe-states) |
 | [0975-range-sum-of-bst](https://github.com/pri2025/gfg/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pri2025/gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pri2025/gfg/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
@@ -509,6 +514,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/pri2025/gfg/tree/master/0820-find-eventual-safe-states) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pri2025/gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 ## Backtracking
