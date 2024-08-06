@@ -177,6 +177,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0045-jump-game-ii](https://github.com/pri2025/gfg/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pri2025/gfg/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/pri2025/gfg/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/pri2025/gfg/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pri2025/gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -291,6 +292,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pri2025/gfg/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/pri2025/gfg/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/pri2025/gfg/tree/master/0189-rotate-array) |
@@ -573,4 +575,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pri2025/gfg/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pri2025/gfg/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
