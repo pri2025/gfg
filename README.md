@@ -272,6 +272,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
+| [0921-spiral-matrix-iii](https://github.com/pri2025/gfg/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 | [1196-filling-bookcase-shelves](https://github.com/pri2025/gfg/tree/master/1196-filling-bookcase-shelves) |
@@ -287,6 +288,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pri2025/gfg/tree/master/0054-spiral-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/pri2025/gfg/tree/master/0921-spiral-matrix-iii) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/pri2025/gfg/tree/master/2195-time-needed-to-buy-tickets) |
 ## Monotonic Stack
@@ -570,6 +572,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0130-surrounded-regions](https://github.com/pri2025/gfg/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/pri2025/gfg/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
+| [0921-spiral-matrix-iii](https://github.com/pri2025/gfg/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 ## Topological Sort
