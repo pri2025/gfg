@@ -250,6 +250,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0039-combination-sum](https://github.com/pri2025/gfg/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pri2025/gfg/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/pri2025/gfg/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/pri2025/gfg/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pri2025/gfg/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pri2025/gfg/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pri2025/gfg/tree/master/0057-insert-interval) |
@@ -285,6 +286,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pri2025/gfg/tree/master/0054-spiral-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/pri2025/gfg/tree/master/2195-time-needed-to-buy-tickets) |
 ## Monotonic Stack
@@ -564,6 +566,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pri2025/gfg/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/pri2025/gfg/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/pri2025/gfg/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
