@@ -7,66 +7,27 @@ using namespace std;
 class Solution
 {
     public:
-    int size;
-    int fn(int index, int W, int wt[], int val[], vector<vector<int>>& dp) {
-    if (index == size) {
-        return 0;
-    }
-    
-    if (dp[index][W] != -1) {
-        return dp[index][W];
-    }
-    
-    int take = INT_MIN;
-    if (wt[index] <= W) {
-        take = val[index] + fn(index + 1, W - wt[index], wt, val, dp);
-    }
-    int nottake = fn(index + 1, W,  wt, val, dp);
-    dp[index][W] = std::max(take, nottake);
-    
-    return dp[index][W];
-}
-
-// Function to return the maximum value that can be put in knapsack of capacity W
-int knapSack(int W, int wt[], int val[], int n) { 
-    size = n;
-   vector<vector<int>> dp(n, vector<int>(W + 1, -1));
-    return fn(0, W, wt, val, dp);
-}
-//   // int maxv;
-//     int fn(int index, int W, int V,int wt[], int val[],vector<vector<int>> &dp){
-//         // if(index == size){
-//         //     maxv = max(maxv, V);
-//         //     return;
-//         // }
-//         if(index == size) return V;
+    int fn(int indx,int W, int wt[], int val[], int n,vector<vector<int>>& memo){
+        if(indx < 0|| W ==0){
+            return 0 ;
+        }
+        if(memo[indx][W] !=-1) return memo[indx][W];
+        int pick = INT_MIN;
+        if(W >= wt[indx]){
+            pick = val[indx] + fn(indx-1, W-wt[indx],wt,val,n,memo);
+        }
+        int notpick = fn(indx-1,W,wt,val,n,memo);
+        memo[indx][W] = max(pick,notpick);
+        return memo[indx][W];
         
-//         if(dp[index][W] != -1){
-//             return dp[index][W];
-//         }
-//         int take = INT_MIN;
-//         if(wt[index] <= W){
-//              take = fn(index+1,W-wt[index],V+val[index],wt,val,dp);
-//         }
-//         int nottake = fn(index+1,W,V,wt,val,dp);
-//         dp[index][W] = max(take,nottake);
-        
-//         return dp[index][W];
-        
-//         // if(wt[index] <= W){
-//         //     dp[index][W] = fn(index+1,W-wt[index],V+val[index],wt,val);
-//         // }
-//         // fn(index+1,W,V,wt,val);
-//     }
-//     //Function to return max value that can be put in knapsack of capacity W.
-//     int knapSack(int W, int wt[], int val[], int n) 
-//     { 
-//       // Your code here
-//       size = n;// maxv = 0;
-//       vector<vector<int>> dp(n,vector<int>(W+1,-1));
-//       return fn(0,W,0,wt,val,dp);
-//       //return maxv;
-//     }
+    }
+    //Function to return max value that can be put in knapsack of capacity W.
+    int knapSack(int W, int wt[], int val[], int n) 
+    { 
+       // Your code here
+       vector<vector<int>> memo(n,vector<int>(W+1,-1));
+       return fn(n-1,W,wt,val,n,memo);
+    }
 };
 
 //{ Driver Code Starts.
