@@ -275,6 +275,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
+| [0870-magic-squares-in-grid](https://github.com/pri2025/gfg/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
 | [0921-spiral-matrix-iii](https://github.com/pri2025/gfg/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
@@ -308,6 +309,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0150-evaluate-reverse-polish-notation](https://github.com/pri2025/gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/pri2025/gfg/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/pri2025/gfg/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/pri2025/gfg/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/pri2025/gfg/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Hash Table
@@ -320,6 +322,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0355-design-twitter](https://github.com/pri2025/gfg/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
+| [0870-magic-squares-in-grid](https://github.com/pri2025/gfg/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pri2025/gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pri2025/gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -578,6 +581,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0130-surrounded-regions](https://github.com/pri2025/gfg/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/pri2025/gfg/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
+| [0870-magic-squares-in-grid](https://github.com/pri2025/gfg/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/pri2025/gfg/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
