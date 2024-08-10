@@ -280,6 +280,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0870-magic-squares-in-grid](https://github.com/pri2025/gfg/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
 | [0921-spiral-matrix-iii](https://github.com/pri2025/gfg/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/pri2025/gfg/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 | [1196-filling-bookcase-shelves](https://github.com/pri2025/gfg/tree/master/1196-filling-bookcase-shelves) |
@@ -326,6 +327,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 | [0870-magic-squares-in-grid](https://github.com/pri2025/gfg/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
+| [0999-regions-cut-by-slashes](https://github.com/pri2025/gfg/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pri2025/gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pri2025/gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pri2025/gfg/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -523,6 +525,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/pri2025/gfg/tree/master/0820-find-eventual-safe-states) |
 | [0975-range-sum-of-bst](https://github.com/pri2025/gfg/tree/master/0975-range-sum-of-bst) |
+| [0999-regions-cut-by-slashes](https://github.com/pri2025/gfg/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pri2025/gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pri2025/gfg/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -545,6 +548,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/pri2025/gfg/tree/master/0820-find-eventual-safe-states) |
+| [0999-regions-cut-by-slashes](https://github.com/pri2025/gfg/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pri2025/gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
@@ -566,6 +570,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0130-surrounded-regions](https://github.com/pri2025/gfg/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
+| [0999-regions-cut-by-slashes](https://github.com/pri2025/gfg/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
@@ -585,6 +590,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/pri2025/gfg/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/pri2025/gfg/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/pri2025/gfg/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 ## Topological Sort
