@@ -286,6 +286,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1196-filling-bookcase-shelves](https://github.com/pri2025/gfg/tree/master/1196-filling-bookcase-shelves) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pri2025/gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pri2025/gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pri2025/gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pri2025/gfg/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/pri2025/gfg/tree/master/2195-time-needed-to-buy-tickets) |
@@ -529,6 +530,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pri2025/gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pri2025/gfg/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pri2025/gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -552,6 +554,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pri2025/gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pri2025/gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Backtracking
 |  |
 | ------- |
@@ -593,6 +596,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0999-regions-cut-by-slashes](https://github.com/pri2025/gfg/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pri2025/gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Topological Sort
 |  |
 | ------- |
@@ -611,4 +615,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pri2025/gfg/tree/master/0062-unique-paths) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pri2025/gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
