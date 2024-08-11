@@ -15,7 +15,7 @@ struct Job
 
 // } Driver Code Ends
 /*
-struct Job 
+struct Job
 { 
     int id;	 // Job Id 
     int dead; // Deadline of job 
@@ -26,57 +26,35 @@ struct Job
 class Solution 
 {
     public:
-    bool static comp(Job &a, Job &b){
-        return a.profit > b.profit; 
+    bool static cmp(Job &a, Job &b){
+        return a.profit > b.profit;
     }
     //Function to find the maximum profit and the number of jobs done.
     vector<int> JobScheduling(Job arr[], int n) 
     { 
-        sort(arr, arr+n, comp); // decreasing order of profit
-        
-        //to know max time a job can take;
-        int maxt = 0;
+        // your code here
+        sort(arr,arr+n ,cmp);
+        int maxi = INT_MIN; // to find max deadline
         for(int i = 0; i<n; i++){
-            if(arr[i].dead > maxt){
-                maxt = arr[i].dead;
+            if(arr[i].dead > maxi){
+                maxi = max(maxi,arr[i].dead);
             }
         }
-        
-        vector<int> slot(maxt+1, -1);
-        int cnt = 0, total = 0;
+        vector<int> slots(maxi+1, -1);
+        int cnt = 0, p = 0;
         for(int i =0; i<n; i++){
-            for(int j= arr[i].dead; j >0; j--){
-                if(slot[j] == -1){
-                    slot[j] = arr[i].id;
+            for(int j = arr[i].dead ; j>0; j--){
+                if(slots[j] == -1){
+                    slots[j] = arr[i].id;
+                    p += arr[i].profit;
                     cnt++;
-                    total += arr[i].profit;
                     break;
                 }
             }
         }
-       
-        return {cnt,total};
+        return {cnt, p};
     } 
 };
-
- // priority_queue<pair<int,int>, vector<pair<int,int>>> maxheap;
-        // int maxi = INT_MIN;
-        // for(int it =0; it <n; it++){
-        //     maxheap.push({arr[it].profit, arr[it].dead});
-        // }
-        // int total = 0; int cnt = 0;
-        // int time = 0;
-        // while(!maxheap.empty()){
-        //     while(maxheap.top().second <= time && !maxheap.empty()){
-        //         maxheap.pop();
-        //     }
-        //     if(!maxheap.empty()){
-        //         total += maxheap.top().first;
-        //         maxheap.pop();
-        //         time++; cnt++;
-        //     }
-        // }
-        // return {cnt,total};
 
 //{ Driver Code Starts.
 // Driver program to test methods 
