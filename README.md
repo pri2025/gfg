@@ -188,6 +188,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0198-house-robber](https://github.com/pri2025/gfg/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/pri2025/gfg/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pri2025/gfg/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/pri2025/gfg/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/pri2025/gfg/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
@@ -273,6 +274,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/pri2025/gfg/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pri2025/gfg/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/pri2025/gfg/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/pri2025/gfg/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
@@ -563,6 +565,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0078-subsets](https://github.com/pri2025/gfg/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pri2025/gfg/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/pri2025/gfg/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/pri2025/gfg/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
