@@ -1,7 +1,7 @@
 class Solution {
 public:
     int fn(int indx, int a,vector<int> &coins,vector<vector<int>> &memo){
-        if(a == 0) return 1;
+       // if(a == 0) return 1;
         if(indx == 0){
             
             return (a % coins[indx]==0);
