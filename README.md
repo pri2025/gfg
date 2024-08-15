@@ -228,6 +228,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/pri2025/gfg/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pri2025/gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pri2025/gfg/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/pri2025/gfg/tree/master/3334-apple-redistribution-into-boxes) |
@@ -290,6 +291,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
 | [0870-magic-squares-in-grid](https://github.com/pri2025/gfg/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/pri2025/gfg/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/pri2025/gfg/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pri2025/gfg/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
