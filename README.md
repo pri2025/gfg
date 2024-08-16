@@ -226,6 +226,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0435-non-overlapping-intervals](https://github.com/pri2025/gfg/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pri2025/gfg/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/pri2025/gfg/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/pri2025/gfg/tree/master/0890-lemonade-change) |
@@ -286,6 +287,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0518-coin-change-ii](https://github.com/pri2025/gfg/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/pri2025/gfg/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/pri2025/gfg/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pri2025/gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/pri2025/gfg/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
