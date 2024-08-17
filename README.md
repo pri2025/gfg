@@ -200,6 +200,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1250-longest-common-subsequence](https://github.com/pri2025/gfg/tree/master/1250-longest-common-subsequence) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pri2025/gfg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/pri2025/gfg/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/pri2025/gfg/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Stack
 |  |
 | ------- |
@@ -303,6 +304,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pri2025/gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pri2025/gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/pri2025/gfg/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pri2025/gfg/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/pri2025/gfg/tree/master/2195-time-needed-to-buy-tickets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pri2025/gfg/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
