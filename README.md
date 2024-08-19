@@ -194,6 +194,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0494-target-sum](https://github.com/pri2025/gfg/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pri2025/gfg/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/pri2025/gfg/tree/master/0542-01-matrix) |
+| [0650-2-keys-keyboard](https://github.com/pri2025/gfg/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
@@ -332,6 +333,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0189-rotate-array](https://github.com/pri2025/gfg/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/pri2025/gfg/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/pri2025/gfg/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/pri2025/gfg/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/pri2025/gfg/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/pri2025/gfg/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
