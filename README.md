@@ -199,6 +199,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/pri2025/gfg/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/pri2025/gfg/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/pri2025/gfg/tree/master/1250-longest-common-subsequence) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pri2025/gfg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/pri2025/gfg/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -302,6 +303,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 | [1196-filling-bookcase-shelves](https://github.com/pri2025/gfg/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/pri2025/gfg/tree/master/1240-stone-game-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pri2025/gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pri2025/gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pri2025/gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -336,6 +338,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0650-2-keys-keyboard](https://github.com/pri2025/gfg/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/pri2025/gfg/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
+| [1240-stone-game-ii](https://github.com/pri2025/gfg/tree/master/1240-stone-game-ii) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/pri2025/gfg/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Hash Table
 |  |
@@ -649,4 +652,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pri2025/gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/pri2025/gfg/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/pri2025/gfg/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
