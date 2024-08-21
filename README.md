@@ -162,6 +162,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0151-reverse-words-in-a-string](https://github.com/pri2025/gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/pri2025/gfg/tree/master/0273-integer-to-english-words) |
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
+| [0664-strange-printer](https://github.com/pri2025/gfg/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pri2025/gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/pri2025/gfg/tree/master/1078-remove-outermost-parentheses) |
@@ -196,6 +197,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0518-coin-change-ii](https://github.com/pri2025/gfg/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/pri2025/gfg/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/pri2025/gfg/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/pri2025/gfg/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/pri2025/gfg/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
