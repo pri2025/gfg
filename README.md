@@ -669,6 +669,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/pri2025/gfg/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/pri2025/gfg/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/pri2025/gfg/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/pri2025/gfg/tree/master/1258-article-views-i) |
