@@ -670,4 +670,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/pri2025/gfg/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/pri2025/gfg/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
