@@ -666,4 +666,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/pri2025/gfg/tree/master/1240-stone-game-ii) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/pri2025/gfg/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
