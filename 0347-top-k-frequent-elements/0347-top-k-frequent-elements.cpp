@@ -5,19 +5,33 @@ public:
         for(int i : nums){
             freq[i]++;
         }
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
-        for(auto it: freq){
-            pq.push({it.second,it.first});
-            if(pq.size() > k){
-                pq.pop();
-            }
-        }
+        priority_queue<pair<int, int>> pq;
+    for (auto& it : freq) {
+        pq.push({it.second, it.first});
+    }
+    
+    vector<int> res;
+    // Extract top k elements
+    while (k > 0 && !pq.empty()) {
+        res.push_back(pq.top().second);
+        pq.pop();
+        k--;
+    }
+    
+    return res;
+        // priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
+        // for(auto it: freq){
+        //     pq.push({it.second,it.first});
+        //     if(pq.size() > k){
+        //         pq.pop();
+        //     }
+        // }
 
-        vector<int> res;
-        while(!pq.empty()){
-            res.push_back(pq.top().second);
-            pq.pop();
-        }
-        return res;
+        // vector<int> res;
+        // while(!pq.empty()){
+        //     res.push_back(pq.top().second);
+        //     pq.pop();
+        // }
+        // return res;
     }
 };
