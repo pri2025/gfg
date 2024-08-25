@@ -308,6 +308,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0890-lemonade-change](https://github.com/pri2025/gfg/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/pri2025/gfg/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pri2025/gfg/tree/master/0999-regions-cut-by-slashes) |
+| [1014-k-closest-points-to-origin](https://github.com/pri2025/gfg/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/pri2025/gfg/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 | [1196-filling-bookcase-shelves](https://github.com/pri2025/gfg/tree/master/1196-filling-bookcase-shelves) |
@@ -349,6 +350,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0650-2-keys-keyboard](https://github.com/pri2025/gfg/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/pri2025/gfg/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/pri2025/gfg/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/pri2025/gfg/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/pri2025/gfg/tree/master/1240-stone-game-ii) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/pri2025/gfg/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Hash Table
@@ -383,6 +385,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pri2025/gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0876-hand-of-straights](https://github.com/pri2025/gfg/tree/master/0876-hand-of-straights) |
+| [1014-k-closest-points-to-origin](https://github.com/pri2025/gfg/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pri2025/gfg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pri2025/gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pri2025/gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -398,6 +401,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0451-sort-characters-by-frequency](https://github.com/pri2025/gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/pri2025/gfg/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -419,11 +423,13 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0169-majority-element](https://github.com/pri2025/gfg/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/pri2025/gfg/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/pri2025/gfg/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -685,4 +691,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pri2025/gfg/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/pri2025/gfg/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/pri2025/gfg/tree/master/1827-invalid-tweets) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/pri2025/gfg/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
