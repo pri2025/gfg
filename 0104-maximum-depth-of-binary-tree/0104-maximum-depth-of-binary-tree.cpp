@@ -11,19 +11,19 @@
  */
 class Solution {
 public:
-    int fn(TreeNode* root){
-        if(root == nullptr){
-            return 0;
-        }
-        int l = fn(root->left);
-        int r = fn(root->right);
+    // int fn(TreeNode* root){
+    //     if(root == nullptr){
+    //         return 0;
+    //     }
+    //     int l = fn(root->left);
+    //     int r = fn(root->right);
         
-        return 1 + max(l,r);
-    }
+    //     return 1 + max(l,r);
+    // }
     int maxDepth(TreeNode* root) {
         if(root == nullptr) return 0;
-        int left = fn(root->left);
-        int right = fn(root->right);
+        int left = maxDepth(root->left);
+        int right = maxDepth(root->right);
 
         return 1 + max(left,right);
     }
