@@ -13,7 +13,7 @@ class Solution {
 public:
     int fn(TreeNode* root){
         if(root == nullptr){
-            return 1;
+            return 0;
         }
         int l = fn(root->left);
         int r = fn(root->right);
@@ -25,6 +25,6 @@ public:
         int left = fn(root->left);
         int right = fn(root->right);
 
-        return max(left,right);
+        return 1 + max(left,right);
     }
 };
