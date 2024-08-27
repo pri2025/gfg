@@ -700,6 +700,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/pri2025/gfg/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/pri2025/gfg/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/pri2025/gfg/tree/master/1827-invalid-tweets) |
+| [1908-recyclable-and-low-fat-products](https://github.com/pri2025/gfg/tree/master/1908-recyclable-and-low-fat-products) |
 ## Geometry
 |  |
 | ------- |
