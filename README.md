@@ -314,6 +314,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 | [1196-filling-bookcase-shelves](https://github.com/pri2025/gfg/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/pri2025/gfg/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/pri2025/gfg/tree/master/1325-path-with-maximum-probability) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pri2025/gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pri2025/gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pri2025/gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -403,6 +404,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0621-task-scheduler](https://github.com/pri2025/gfg/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pri2025/gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/pri2025/gfg/tree/master/1014-k-closest-points-to-origin) |
+| [1325-path-with-maximum-probability](https://github.com/pri2025/gfg/tree/master/1325-path-with-maximum-probability) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -635,6 +637,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0210-course-schedule-ii](https://github.com/pri2025/gfg/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/pri2025/gfg/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/pri2025/gfg/tree/master/0820-find-eventual-safe-states) |
+| [1325-path-with-maximum-probability](https://github.com/pri2025/gfg/tree/master/1325-path-with-maximum-probability) |
 ## Matrix
 |  |
 | ------- |
@@ -706,4 +709,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/pri2025/gfg/tree/master/1014-k-closest-points-to-origin) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/pri2025/gfg/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
