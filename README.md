@@ -291,6 +291,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0189-rotate-array](https://github.com/pri2025/gfg/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pri2025/gfg/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pri2025/gfg/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/pri2025/gfg/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/pri2025/gfg/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/pri2025/gfg/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/pri2025/gfg/tree/master/0416-partition-equal-subset-sum) |
@@ -461,6 +462,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0151-reverse-words-in-a-string](https://github.com/pri2025/gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/pri2025/gfg/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/pri2025/gfg/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/pri2025/gfg/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/pri2025/gfg/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pri2025/gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/pri2025/gfg/tree/master/0908-middle-of-the-linked-list) |
