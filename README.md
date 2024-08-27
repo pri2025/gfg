@@ -340,6 +340,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/pri2025/gfg/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/pri2025/gfg/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/pri2025/gfg/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pri2025/gfg/tree/master/0070-climbing-stairs) |
