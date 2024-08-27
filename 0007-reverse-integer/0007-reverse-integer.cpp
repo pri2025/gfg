@@ -11,7 +11,7 @@ public:
         }
         while(num>0){
             digit = num % 10;
-            if(newn > INT_MAX / 10) return 0; 
+            if(newn > INT_MAX/10) return 0; 
             newn = newn*10 + digit;
             num = num/10;
         }
