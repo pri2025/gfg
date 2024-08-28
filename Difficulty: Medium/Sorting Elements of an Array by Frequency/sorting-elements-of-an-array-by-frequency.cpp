@@ -7,7 +7,7 @@ using namespace std;
 class Solution {
   public:
     // Complete this function
-    // Function to sort the array according to frequency of elements.4
+    // Function to sort the array according to frequency of elements.
     bool static cmp(pair<int,int> a, pair<int,int> b){
         if(a.second == b.second){
             return a.first < b.first;
@@ -16,7 +16,7 @@ class Solution {
     }
     vector<int> sortByFreq(vector<int>& arr) {
         // Your code here
-        sort(arr.begin(),arr.end());
+        //sort(arr.begin(),arr.end());
         unordered_map<int,int> mp;
         for(int it: arr){
             mp[it]++;
@@ -35,20 +35,6 @@ class Solution {
         }
         
         return ans;
-        
-        // priority_queue<pair<int,int>> pq;
-        // for(auto it: mp){
-        //     pq.push({it.second,it.first});
-        // }
-       
-        // while(!pq.empty()){
-        //     for(int i = 0; i<pq.top().first; i++){
-        //          res.push_back(pq.top().second);
-        //     }
-        //     pq.pop();
-        // }
-        
-        //return res;
     }
 };
 
