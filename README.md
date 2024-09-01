@@ -322,6 +322,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2035-count-sub-islands](https://github.com/pri2025/gfg/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pri2025/gfg/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/pri2025/gfg/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pri2025/gfg/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/pri2025/gfg/tree/master/2195-time-needed-to-buy-tickets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pri2025/gfg/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -334,6 +335,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0592-fraction-addition-and-subtraction](https://github.com/pri2025/gfg/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/pri2025/gfg/tree/master/0921-spiral-matrix-iii) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pri2025/gfg/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/pri2025/gfg/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/pri2025/gfg/tree/master/2195-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
@@ -661,6 +663,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1073-number-of-enclaves](https://github.com/pri2025/gfg/tree/master/1073-number-of-enclaves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pri2025/gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/pri2025/gfg/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/pri2025/gfg/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Topological Sort
 |  |
 | ------- |
